@@ -5,7 +5,7 @@ const API_URL =
   IPAPI_KEY +
   "&fields=status,countryCode,query,proxy,hosting";
 const MAX_REQUESTS = 100;
-const GA_MEASUREMENT_ID = "G-4S2FY8L3PS";
+const GA_MEASUREMENT_ID = "G-YQJ6JGV95Y";
 
 // Country-specific floor CPM arrays
 const COUNTRY_FLOORS = {
